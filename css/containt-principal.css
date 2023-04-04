@@ -1,0 +1,9 @@
+.containt-principal{
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+    align-items: center;
+    margin-block-start: 8rem;
+    block-size: 30rem;
+
+}

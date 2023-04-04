@@ -1,0 +1,12 @@
+.containt-logo{
+    inline-size: 70rem;
+    block-size: 10rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+
+}
+.containt-logo img{
+
+}

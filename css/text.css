@@ -1,0 +1,18 @@
+.text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+    text-align: center;
+}
+.tittle{
+    color: var(--primary);
+    font: var(--headline1);
+    margin: 0;
+}
+.subTittle{
+    color: var(--white);
+    font: var(--smallfont);
+    margin: 0;
+    inline-size: 44rem;
+}

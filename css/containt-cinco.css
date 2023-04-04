@@ -1,0 +1,6 @@
+.containt-cinco{
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+    margin-block-start: 8rem;
+}

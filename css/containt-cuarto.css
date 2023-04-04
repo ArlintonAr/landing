@@ -1,0 +1,33 @@
+.containt-cuarto{
+    display: flex;
+    flex-direction: column;
+    gap: 6rem;
+    align-items: center;
+    margin-block-start:4rem ;
+}
+.containt-icon{
+    display: flex;
+    gap: 2rem;
+}
+.icon-text{
+    inline-size: 25rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+.icon-text i{
+    font-size:2rem ;
+    color: var(--buttonOne);
+}
+
+.icon-text .icon-tittle {
+    color: var(--primary);
+    font: var(--headline2);
+    margin: 0;
+}
+.icon-text .icon-subTittle{
+    color: var(--white);
+    font: var(--smallfont);
+    margin: 0;
+}

@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300&family=Source+Sans+3:ital,wght@0,200;0,300;0,400;1,200&display=swap');
+@import './body.css';
+@import './button.css';
+@import './text.css';
+@import './logo.css';
+@import './containt-principal.css';
+
+@import './description-computer.css';
+
+@import './containt-segundo.css';
+@import './containt-tercero.css';
+@import './containt-cuarto.css';
+@import './containt-logo.css';
+@import './containt-cinco.css';
+@import './pie-pagina.css';
+@import './navegation.css';
+:root{
+
+/* Colors */
+/* Primary */
+
+--primary:#F6F792;
+--white:#DAEDE2;
+
+--background:#333745;
+--buttonOne:#037F8C;
+--buttonTwo:#EA2E49;
+
+--headline1: 900 3.5rem/normal Raleway; 
+--headline2: 900 1.5rem/normal Raleway; 
+--smallfont:  1rem/normal Raleway; 
+/* 
+Typography */
+
+/* Body  */
+
+
+
+/* Fonts */
+
+/* Family: [Bai Jamjuree](https://fonts.google.com/specimen/Bai+Jamjuree)
+- Weights: 400, 600*/
+
+/* Icons
+
+- [Font Awesome](https://fontawesome.com)
+- [IcoMoon](https://icomoon.io)
+- [Ionicons](https://ionicons.com) */
+}

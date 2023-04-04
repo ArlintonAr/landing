@@ -1,0 +1,15 @@
+.description-computer{
+    inline-size: 32rem;
+    box-sizing: border-box;
+    padding: 1rem;
+}
+.description-title{
+    color: var(--white);
+    font: var(--headline2);
+}
+
+.description-subtitle{
+    color: var(--white);
+    font: var(--smallfont);
+
+}

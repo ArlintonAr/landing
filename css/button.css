@@ -1,0 +1,30 @@
+.button{
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+
+}
+
+.buttonOne{
+    border: none;
+    background: var(--buttonOne);
+    inline-size: 15rem;
+    block-size: 3rem;
+    border-radius: 25px;
+    color: var(--white);
+    border-bottom: 1px solid black;
+   cursor: pointer;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.buttonTwo{
+    border: none;
+    background: var(--buttonTwo);
+    inline-size: 15rem;
+    block-size: 3rem;
+    border-radius: 25px;
+    color: var(--white);
+    border-bottom: 1px solid black;
+    cursor: pointer;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
